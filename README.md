@@ -53,16 +53,3 @@
    <a href="https://www.linkedin.com/in/developerkarthik/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://portfolio-karthik.vercel.app/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
    
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthiksk123&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthiksk123&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksk123&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthiksk123&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karthiksk123&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=karthiksk123&icon=1&color=0)](https://visitcount.itsvg.in)
