@@ -8,8 +8,6 @@
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
   <li>I am Karthik, a guy who loves❤️ to code</li>
-  <li>Currently employed to Superbotics as a Full stack JS developer 🧑‍💻</li>
-  <li>I am also a freelance full-stack developer 🖥️</li>
   <li>At present, scratching my head in learning Nest-GraphQl-Prisma 😅</li>
   <li>I did my B.E CSE from AAA-CET, Sivakasi 🎓</li>
   <li>Check out my website: https://portfolio-karthik.vercel.app/</li>
